@@ -1,0 +1,97 @@
+body {
+    width: 90%;
+    margin-left: 5%!important;
+}
+.nav-wrapper {
+    background-color: #2b66ab;
+    padding-left: 4em;
+    padding-right: 4em;
+}
+.form {
+    margin: 3em auto;
+    width: 40%;
+}
+.mar {
+    margin-bottom: 1em;
+}
+.mart {
+    margin-top: 1em;
+}
+.pad {
+    padding-left: 0!important;
+    padding-right: 0!important;
+}
+.btn {
+    background-color: #2b66ab!important;
+}
+.myContainer {
+    margin: 0 auto;
+    width: 90%;
+}
+span.myBadge {
+    position: initial!important;
+    padding: 3px 6px!important;
+    min-width: 24px!important;
+}
+.myNav .active {
+    background-color: #d6f2fa;
+}
+.myNav li {
+    padding: 10px;
+}
+.myAlign {
+    vertical-align: middle;
+}
+.myRow {
+    margin-bottom: 0!important;
+}
+.tl {
+    text-align: left!important;
+    padding-top: 1rem!important;
+    padding-bottom: 1rem!important;
+    font-size: 18px;
+}
+.btn-floating {
+    background-color: #2b66ab!important;
+}
+input[type=search] {
+    width: 85%!important;
+    margin-bottom: 1em!important;
+    border-bottom: 1px solid rgb(231, 231, 231) !important;
+}
+.friend {
+    padding-top: 1rem!important;
+    padding-left: 1.5rem!important;
+}
+.news {
+    padding-top: 0.5rem!important;
+    padding-left: 0.7rem!important;
+    padding-bottom: 0.5rem!important;
+}
+.new {
+    padding-left: 2rem!important;
+}
+.bol {
+    font-weight: bold;
+    font-size: 18px;
+}
+.card-panel {
+    margin-top: 0!important;
+}
+.marr {
+    margin-right: 1.5rem;
+}
+.line {
+    line-height: 10px!important;
+}
+.inline {
+    display: inline-flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.bold {
+    font-weight: bolder!important;
+    background-color: rgba(0, 0, 0, 0.31);
+    max-height: 70px;
+    margin-bottom: 0.5rem;
+}
